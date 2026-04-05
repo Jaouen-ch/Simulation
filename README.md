@@ -1,4 +1,4 @@
-# Simulation game dev by Jaouen and Romain
+# Simulation - Jaouen Chesné and Romain Le Guyader
 
 2D game developed with SFML, implementing a simulation game with behaviors trees.
 
